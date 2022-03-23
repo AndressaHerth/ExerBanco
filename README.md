@@ -1,1 +1,1 @@
-ExerBanco
+Simple application simulating bank account.
